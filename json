@@ -1,0 +1,23 @@
+{
+    "id":1,
+    "name":"bob",
+    "person":{
+        "name":"sushi",
+        "age":18
+    },
+    "persons":[
+     {
+            "name":"ivan",
+            "age":18
+        },
+        {
+                "name":"James",
+                "age":18
+            },
+            {
+                    "name":"Curry",
+                    "age":18
+               }
+    ]
+
+}
