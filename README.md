@@ -2,7 +2,7 @@
 find unused field between Json and DataClass
 
 #### Step 1
-copy "target json" to sjon
+copy "target json" to json
 
 #### Step 2
 import dataClass
